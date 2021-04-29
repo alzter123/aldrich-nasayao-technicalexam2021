@@ -1,6 +1,4 @@
-# Quasar App (techexam1)
-
-my job application project
+# Youtube Video List App
 
 ## Install the dependencies
 ```bash
